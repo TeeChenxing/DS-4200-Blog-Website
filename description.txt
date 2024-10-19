@@ -1,0 +1,7 @@
+Website Hyperlink: https://teechenxing.github.io/blog/
+
+For the website, I set the default font to be roboto + mono to give the site a simplistic/minimalistic design. 
+To go with this minimalist design, I decided to use the least number of colors for the text and pictures. The text would 
+either be black or white, with the navigation bar text turning gray when on hover. For the symbols underneath the Contacts section,
+I chose symbols that are black and white to match the text. In terms of customization, I added a javascript function that allowed the 
+text to be "typed" on-screen to make the website look somewhat lively along with a moving background image.
