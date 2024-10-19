@@ -829,8 +829,8 @@ pre code {
   clear: both;
 }
 .row {
-  margin-left: -115px;
-  margin-right: -115px;
+  margin-left: -5%;
+  margin-right: -5%;
 }
 .row:after,
 .row:before {
@@ -840,6 +840,7 @@ pre code {
 .row:after {
   clear: both;
 }
+
 .col-lg-1,
 .col-lg-2,
 .col-lg-3,
